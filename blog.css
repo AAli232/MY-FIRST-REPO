@@ -8,3 +8,14 @@ ul{
   margin: 10px 5px 10px;
   width: 50%;
 }
+.gittu{
+  margin: 10px;
+  padding: 15px;
+  border: 10px solid tomato;
+  text-align: center;
+  border-radius: 15px;
+  box-shadow: 10px 10px 40px 10px bisque;
+}
+#photo{
+  border-radius: 15px;
+}
